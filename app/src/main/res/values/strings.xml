@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">31marchfindergame</string>
+    <string name="instructions_title">
+        <b>Finding Nemo</b>
+    </string>
+    <string name="instructions">
+       \t \u2022 Find nemo and his friends!\n
+       \t \u2022 Touch and hold the screen for the spotlight. \n
+       \t \u2022 And start looking.\n \n
+    </string>
+    <string name="title_activity_end_game">EndGame</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
